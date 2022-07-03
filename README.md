@@ -14,7 +14,7 @@ Decentralized Private Mail App and Protocol
 3. `npm start`
 4. open http://localhost:3000/
 
-For a quick overview and explanations, see the demo video: https://youtu.be/8coLe-z6jHg 
+
 
 Try out the deployed app: https://demo.deb0x.org/
 
